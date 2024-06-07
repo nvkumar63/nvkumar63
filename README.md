@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveen Kumar
-- 👀 I’m interested in Medical Billing, Data Science & Business Analyst
+- 👀 I’m interested in Medical Billing, Data Science & Data Analyst
 - 🌱 I’m currently learning Data Science, AI & ML
 - 💞️ I’m looking to collaborate on data science projects that involve machine learning and predictive analytics. If you're working on exciting projects or looking to team up for research, let's connect and explore opportunities together.
 - 📫 How to reach me nv_kumar63@yahoo.com  
